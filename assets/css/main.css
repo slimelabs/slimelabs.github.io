@@ -2741,7 +2741,7 @@ input[type="button"]:disabled,
 }
 
 .goto-next:before {
-    background-image: url("images/arrow.svg");
+    background-image: url("images/green-arrow.svg");
     background-position: center center;
     background-repeat: no-repeat;
     background-size: contain;
@@ -2942,7 +2942,7 @@ input[type="button"]:disabled,
 }
 
 .spotlight.style3 .content {
-    border-color: #65ff00;
+    border-color: #f05454;
 }
 
 .spotlight.inactive .content {
